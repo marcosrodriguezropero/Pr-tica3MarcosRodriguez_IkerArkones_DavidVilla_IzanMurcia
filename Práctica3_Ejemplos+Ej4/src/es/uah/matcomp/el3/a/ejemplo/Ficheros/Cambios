@@ -1,0 +1,6 @@
+Al cambiar el contenido del fichero "usuario.json" y crear un programa main
+que lea dicho archivo de la misma forma que lo hace la clase "GsonUtilEjemplo" la salida
+que produce el programa "MainDeCambio" depende del contenido de dicho fichero, por tanto,
+al ejecutar la clase aparecerá "Usuario cargado: Juan" y si cambiamos el contenido del fichero,
+si ejecutamos el programa main aparecerá lo mismo con el nombre cambiado. En conclusión, se ha
+conseguido que se modifique la salida del programa.

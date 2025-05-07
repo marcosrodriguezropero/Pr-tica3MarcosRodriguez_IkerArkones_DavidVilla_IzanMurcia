@@ -1,0 +1,14 @@
+¿QUÉ ESTRUCTURA TIENE EL FICHERO JSON RESULTANTE?
+
+La estructura que presenta es jerárquica ya que la lista guarda espacios entre cada estudiante
+así como los datos que presentan en sí.
+
+¿PUEDO MODIFICAR LOS ALUMNOS EN EL ARCHIVO RESULTANTE?
+
+La respuesta es sí, como hecho en un ejercicio de ejemplo al modificar el archivo .json, en este
+caso los alumnos, la salida que propone el programa al ejecutarlo es diferente, en específico,
+la cambiada recientemente.
+
+¿SE PUEDEN OBTENER NUEVOS OBJETOS CARGANDO EL FICHERO DE VUELTA?
+
+Sí, mientras el código funcione y esté actualizado a cambios del archivo .json
