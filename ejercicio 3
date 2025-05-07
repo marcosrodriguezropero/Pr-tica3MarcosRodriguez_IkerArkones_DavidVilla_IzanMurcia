@@ -1,0 +1,1 @@
+Ejercicio 3.    Al intentar un array a json, gson convierte el array en una lista. Si el array está dentro de un objeto gson convierte el array en una lista dentro del objeto.
